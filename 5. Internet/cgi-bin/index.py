@@ -1,0 +1,6 @@
+print("Content-type: text/html; charset=utf-8")
+print()
+print("<html><head><title>Заголовок</title></head><body style = 'text-align: center;'>")
+print("<h1>The first Web-page!</h1>")
+print("<p>Some text...</p>")
+print("</body></html>")
